@@ -1,0 +1,12 @@
+{
+  "name": "error_handling",
+  "version": "1.0.0",
+  "dev": "index.js",
+  "scripts": {
+    "dev" : "node index.js"
+  },
+  "author": "Nelly",
+  "license": "ISC",
+  "description": ""
+}
+
